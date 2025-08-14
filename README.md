@@ -1,11 +1,11 @@
-# 📈 Retail Sales Performance
+# Retail Sales Performance
 
 This project analyzes **50K+ retail sales transactions** using **Power BI**, **DAX**, and **Excel**, covering key metrics across products, regions, customers, and time periods.  
 The analysis provides actionable insights into top-performing products, regions, and sales channels to drive business growth.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Comprehensive Sales Analysis:** Processed and analyzed sales data to uncover trends and patterns.
 - **Power BI Dashboards:** Built interactive visualizations for business stakeholders to track KPIs in real time.
@@ -16,13 +16,13 @@ The analysis provides actionable insights into top-performing products, regions,
 
 ---
 
-## 🎯 Impact
+## Impact
 
 Enabled data-driven business decisions by highlighting high-revenue drivers, optimizing inventory focus, and aligning marketing efforts with top-performing channels.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - Power BI
 - DAX (Data Analysis Expressions)
@@ -32,7 +32,7 @@ Enabled data-driven business decisions by highlighting high-revenue drivers, opt
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 Retail_Sales_Performance/
 │
 ├── data/ # Raw and cleaned sales data files
