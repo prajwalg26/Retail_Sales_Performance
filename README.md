@@ -31,12 +31,3 @@ Enabled data-driven business decisions by highlighting high-revenue drivers, opt
 - Data Visualization
 
 ---
-
-## Project Structure
-Retail_Sales_Performance/
-│
-├── data/ # Raw and cleaned sales data files
-├── reports/ # Power BI (.pbix) files
-├── dashboards/ # Exported dashboard images
-├── README.md # Project documentation
-└── LICENSE # License file
